@@ -10,3 +10,6 @@ Git Remote Repositories
 
 ## [Task 3](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-3-Python-Basics-Syntax-Variables-Datatypes-Code-Execution)
 Python Basics [Syntax, Variables, Datatypes, Code, Execution]
+
+## [Task 4](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-4-List-Tuples-Code-Styling)
+Python Lists and Tuples
