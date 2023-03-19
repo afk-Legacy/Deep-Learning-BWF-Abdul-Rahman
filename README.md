@@ -7,3 +7,6 @@ Git Basics
 
 ## [Task 2](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-2-Git-Remote-Repos)
 Git Remote Repositories 
+
+## [Task 3](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-3-Python-Basics-Syntax-Variables-Datatypes-Code-Execution)
+Git Remote Repositories 
