@@ -13,3 +13,6 @@ Python Basics [Syntax, Variables, Datatypes, Code, Execution]
 
 ## [Task 4](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-4-List-Tuples-Code-Styling)
 Python Lists and Tuples
+
+## [Task 5](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-5-Input-Conditionals-Enumerate-Set)
+Python Enumerate() function, Timing Your Code, User Inputs, Conditionals, Introducing Set, Union, Intersection, Difference, Symmetric Difference, Making Data Unique with Sets
