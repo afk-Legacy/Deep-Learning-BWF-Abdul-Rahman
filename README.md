@@ -7,11 +7,11 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 - [Task 2 - Git Remote Repositories](#git-remote-repositories)
 - [Task 3 - Python Basics](#python-basics)
 - [Task 4 - Python Lists and Tuples](#python-lists-and-tuples)
-- [Task 5 - Python Timing, Inputs, Conditionals, and Sets](python-timing,-inputs,-and-sets)
-- [Task 6 - Python Dictionaries](python-dictionaries)
-- [Task 7 - Python Functions](python-functions)
-- [Task 8 - Python Classes and Inheritance](python-classes-and-inheritance)
-- [Task 9 - Python File and Exception Handling](python-file-and-exception-handling)
+- [Task 5 - Python Timing, Inputs, Conditionals, and Sets](#python-timing,-inputs,-and-sets)
+- [Task 6 - Python Dictionaries](#python-dictionaries)
+- [Task 7 - Python Functions](#python-functions)
+- [Task 8 - Python Classes and Inheritance](#python-classes-and-inheritance)
+- [Task 9 - Python File and Exception Handling](#python-file-and-exception-handling)
 
 ---
 
