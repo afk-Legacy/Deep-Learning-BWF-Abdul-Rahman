@@ -15,7 +15,7 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 
 ---
 
-## :notebook: Task Overview
+## :notebook: Tasks Overview
 
 
 ### [:octopus: Git Basics](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-1-Git-Basics)
