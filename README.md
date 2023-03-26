@@ -15,8 +15,9 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 
 ---
 
-## :notebook: Tasks Overview
+## :pencil: Tasks Overview
 
+--- 
 
 ### [:octopus: Git Basics](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-1-Git-Basics)
 > Learned the basics of Git version control system, including initializing a repository, committing changes, and pushing to a remote repository.
@@ -59,4 +60,4 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 ---
 
 ### [:file_folder: Python File and Exception Handling](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-9-Files-Handling-Exception-Handling)
-Learned about reading and writing files in Python, as well as handling exceptions with try, except, and finally statements.
+> Learned about reading and writing files in Python, as well as handling exceptions with try, except, and finally statements.
