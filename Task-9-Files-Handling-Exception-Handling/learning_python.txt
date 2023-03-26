@@ -1,0 +1,8 @@
+In Python you can:
+
+Use indentation to define blocks of code.
+Assign values to variables using the = operator.
+Create and use functions using the def keyword.
+Import modules and use their functions and classes.
+Work with different data types like strings, integers, and lists.
+Use control structures like if/else statements and loops.
