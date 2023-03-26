@@ -1,6 +1,6 @@
 # :rocket: Bytewise Deep Learning Track 
 
-This repo contains tasks and other relevant resources relating to Deep Learning Track
+This repository contains tasks and other relevant resources relating to the Deep Learning Track.
 
 ## :memo: [Task 1](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-1-Git-Basics)
 Git Basics
@@ -15,7 +15,7 @@ Python Basics [Syntax, Variables, Datatypes, Code, Execution]
 Python Lists and Tuples
 
 ## :keyboard: [Task 5](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-5-Input-Conditionals-Enumerate-Set)
-Python Enumerate() function, Timing Your Code, User Inputs, Conditionals, Introducing Set, Union, Intersection Difference, Symmetric Difference, Making Data Unique with Sets
+Python `enumerate()` function, Timing Your Code, User Inputs, Conditionals, Introducing Set, Union, Intersection Difference, Symmetric Difference, Making Data Unique with Sets
 
 ## :closed_book: [Task 6](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-6-Dictionaries)
 Dictionaries in Python, Keys, Values, Dictionary Methods, Adding, Removing, Changing items
