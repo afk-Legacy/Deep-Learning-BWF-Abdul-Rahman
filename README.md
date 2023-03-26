@@ -3,7 +3,7 @@
 This repo contains tasks and other relevant resources relating to Deep Learning Track
 
 ## :pencil: Tasks
-- [Task 1 - Git Basics](#git-basics) 
+- [Task 1 - Git Basics](#:octopus:-git-basics) 
 - [Task 2 - Git Remote Repositories](#git-remote-repositories)
 - [Task 3 - Python Basics](#python-basics)
 - [Task 4 - Python Lists and Tuples](#python-lists-and-tuples)
