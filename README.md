@@ -21,4 +21,7 @@ Python Enumerate() function, Timing Your Code, User Inputs, Conditionals, Introd
 Dictionaries in Python, Keys, Values, Dictionary Methods, Adding, Removing, Changing items
 
 ## [Task 7](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-7-Functions-Docstring-Calling-Definiton-DRY_Principle)
+Functions in Python, Docstrings, Definition, Calling, Passing Arguments to Functions, Returning Values, Arbitrary Number of Arguments
+
+## [Task 8](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-8-Classes-Inheritance)
 Classes and Inheritance in Python
