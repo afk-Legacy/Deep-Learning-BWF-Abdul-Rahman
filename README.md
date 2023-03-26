@@ -3,7 +3,7 @@
 This repo contains tasks and other relevant resources relating to Deep Learning Track
 
 ## :pencil: Tasks
-- [Task 1 - Git Basics](#:octopus:-git-basics) 
+- [Task 1 - Git Basics](#git-basics) 
 - [Task 2 - Git Remote Repositories](#git-remote-repositories)
 - [Task 3 - Python Basics](#python-basics)
 - [Task 4 - Python Lists and Tuples](#python-lists-and-tuples)
@@ -18,7 +18,7 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 ## :notebook: Tasks Overview
 
 
-### [:octopus: Git Basics](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-1-Git-Basics)
+### :octopus: [Git Basics](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-1-Git-Basics)
 Learned the basics of Git version control system, including initializing a repository, committing changes, and pushing to a remote repository.
 
 ---
