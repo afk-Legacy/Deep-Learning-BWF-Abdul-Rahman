@@ -20,5 +20,5 @@ Python Enumerate() function, Timing Your Code, User Inputs, Conditionals, Introd
 ## [Task 6](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-6-Dictionaries)
 Dictionaries in Python, Keys, Values, Dictionary Methods, Adding, Removing, Changing items
 
-## [Task 7](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-7-Classes-Inheritance)
+## [Task 7](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-7-Functions-Docstring-Calling-Definiton-DRY_Principle)
 Classes and Inheritance in Python
