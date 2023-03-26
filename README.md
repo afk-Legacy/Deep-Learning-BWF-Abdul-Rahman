@@ -13,6 +13,8 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 - [Task 8 - Classes and Inheritance in Python](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-8-Classes-Inheritance)
 - [Task 9 - File Reading & Writing, Try, Except & Finally](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-9-Files-Handling-Exception-Handling)
 
+---
+
 ## :notebook: Task Overview
 
 ## [:computer: Task 1 - Git Basics](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-1-Git-Basics)
