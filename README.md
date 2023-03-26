@@ -17,29 +17,29 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 
 ## :notebook: Task Overview
 
-## [:computer: Task 1 - Git Basics](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-1-Git-Basics)
+### [:computer: Task 1 - Git Basics](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-1-Git-Basics)
 Learned the basics of Git version control system, including initializing a repository, committing changes, and pushing to a remote repository.
 
-## [:octocat: Task 2 - Git Remote Repositories](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-2-Git-Remote-Repos)
+### [:octocat: Task 2 - Git Remote Repositories](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-2-Git-Remote-Repos)
 Explored the use of remote repositories in Git, including cloning, fetching, and pulling from remote repositories, as well as pushing to and creating new branches on remote repositories.
 
-## [:snake: Task 3 - Python Basics](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-3-Python-Basics-Syntax-Variables-Datatypes-Code-Execution)
+### [:snake: Task 3 - Python Basics](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-3-Python-Basics-Syntax-Variables-Datatypes-Code-Execution)
 Learned the basics of Python, including syntax, variables, data types, code execution, and common built-in functions.
 
-## [:memo: Task 4 - Python Lists and Tuples](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-4-List-Tuples-Code-Styling)
+### [:memo: Task 4 - Python Lists and Tuples](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-4-List-Tuples-Code-Styling)
 Explored Python's list and tuple data structures, as well as common list methods and best practices for code styling.
 
-## [:watch: Task 5 - Python Timing, Inputs, and Sets](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-5-Input-Conditionals-Enumerate-Set)
+### [:watch: Task 5 - Python Timing, Inputs, and Sets](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-5-Input-Conditionals-Enumerate-Set)
 Learned about Python's `enumerate()` function, timing code execution, user inputs, conditionals, and introduced the set data structure and its methods.
 
-## [:book: Task 6 - Python Dictionaries](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-6-Dictionaries)
+### [:book: Task 6 - Python Dictionaries](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-6-Dictionaries)
 Explored Python's dictionary data structure, including keys, values, and common dictionary methods for adding, removing, and changing items.
 
-## [:speech_balloon: Task 7 - Python Functions](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-7-Functions-Docstring-Calling-Definiton-DRY_Principle)
+### [:speech_balloon: Task 7 - Python Functions](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-7-Functions-Docstring-Calling-Definiton-DRY_Principle)
 Learned about Python functions, including docstrings, function definition, calling functions, passing arguments to functions, returning values, and working with arbitrary numbers of arguments.
 
-## [:classical_building: Task 8 - Python Classes and Inheritance](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-8-Classes-Inheritance)
+### [:classical_building: Task 8 - Python Classes and Inheritance](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-8-Classes-Inheritance)
 Explored Python's class-based object-oriented programming paradigm, including defining classes, creating instances of classes, and working with inheritance.
 
-## [:file_folder: Task 9 - Python File and Exception Handling](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-9-Files-Handling-Exception-Handling)
+### [:file_folder: Task 9 - Python File and Exception Handling](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-9-Files-Handling-Exception-Handling)
 Learned about reading and writing files in Python, as well as handling exceptions with try, except, and finally statements.
