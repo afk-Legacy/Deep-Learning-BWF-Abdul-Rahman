@@ -12,6 +12,7 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 - [Task 7 - Python Functions](#speech_balloon-python-functions)
 - [Task 8 - Python Classes and Inheritance](#classical_building-python-classes-and-inheritance)
 - [Task 9 - Python File and Exception Handling](#file_folder-python-file-and-exception-handling)
+- [Task 10 - Numpy Basics](#numpy_basics)
 
 ---
 
@@ -59,3 +60,8 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 
 ### [:file_folder: Python File and Exception Handling](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-9-Files-Handling-Exception-Handling)
 > Learned about reading and writing files in Python, as well as handling exceptions with try, except, and finally statements.
+
+---
+
+### [:123: Numpy Basics](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-10-Numpy-Basics)
+> Explored the basics of the NumPy library in Python, including initializing arrays, array metadata, arithmetic operations on arrays, boolean and fancy indexing, and broadcasting.
