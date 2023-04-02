@@ -12,8 +12,8 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 - [Task 7 - Python Functions](#speech_balloon-python-functions)
 - [Task 8 - Python Classes and Inheritance](#classical_building-python-classes-and-inheritance)
 - [Task 9 - Python File and Exception Handling](#file_folder-python-file-and-exception-handling)
-- [Task 10 - Numpy Basics](#numpy_basics)
-- [Task 11 - Numpy Linear Algebra](#numpy_linear_algebra)
+- [Task 10 - Numpy Basics](#chart_with_upwards_trend-numpy_basics)
+- [Task 11 - Numpy Linear Algebra](#bar_chart-numpy_linear_algebra)
 
 ---
 
@@ -64,7 +64,7 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 
 ---
 
-### [:123: Numpy Basics](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-10-Numpy-Basics)
+### [:chart_with_upwards_trend: Numpy Basics](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-10-Numpy-Basics)
 > Explored the basics of the NumPy library in Python, including initializing arrays, array metadata, arithmetic operations on arrays, boolean and fancy indexing, and broadcasting.
 
 ---
