@@ -12,8 +12,9 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 - [Task 7 - Python Functions](#speech_balloon-python-functions)
 - [Task 8 - Python Classes and Inheritance](#classical_building-python-classes-and-inheritance)
 - [Task 9 - Python File and Exception Handling](#file_folder-python-file-and-exception-handling)
-- [Task 10 - Numpy Basics](#chart_with_upwards_trend-numpy_basics)
-- [Task 11 - Numpy Linear Algebra](#bar_chart-numpy_linear_algebra)
+- [Task 10 - Numpy Basics](#chart_with_upwards_trend-numpy-basics)
+- [Task 11 - Numpy Linear Algebra](#bar_chart-numpy-linear-algebra)
+- [Task 12 - Numpy Broadcasting](#books-numpy-linear-algebra)
 
 ---
 
@@ -71,3 +72,8 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 
 ### [:bar_chart: Numpy Linear Algebra](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-11-Numpy-Algebra)
 > Learned about basic linear algebra and statistics functions implemented using Numpy. Some of the functions covered include mean, median, mode, rank, quantiles, probability distribution, correlation, transpose, determinant, inverse, eigenvalues, eigenvectors, dot product, cross product, and covariance.
+
+---
+
+### [:books: Numpy Broadcasting](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-12-Numpy-Broadcasting)
+> Explored the concept of broadcasting in NumPy with 10 different examples. The examples showcased various broadcasting scenarios, such as adding a scalar to an array, multiplying arrays with different shapes, broadcasting along multiple dimensions, using a boolean array for broadcasting and even broadcasting with arrays of different data types.
