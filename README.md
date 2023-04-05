@@ -15,7 +15,8 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 - [Task 10 - Numpy Basics](#chart_with_upwards_trend-numpy-basics)
 - [Task 11 - Numpy Linear Algebra](#bar_chart-numpy-linear-algebra)
 - [Task 12 - Numpy Broadcasting](#books-numpy-broadcasting)
-- [Task 13 - Pandas Loading Data](#floppy_disk-pandas-loading-data)
+- [Task 13 - Pandas Basics](#panda_face-pandas-basics)
+- [Task 14 - Pandas Loading Data](#floppy_disk-pandas-loading-data)
 ---
 
 ## :pencil: Tasks Overview
