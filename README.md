@@ -14,8 +14,8 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 - [Task 9 - Python File and Exception Handling](#file_folder-python-file-and-exception-handling)
 - [Task 10 - Numpy Basics](#chart_with_upwards_trend-numpy-basics)
 - [Task 11 - Numpy Linear Algebra](#bar_chart-numpy-linear-algebra)
-- [Task 12 - Numpy Broadcasting](#books-numpy-linear-algebra)
-
+- [Task 12 - Numpy Broadcasting](#books-numpy-broadcasting)
+- [Task 13 - Pandas Basics](#panda_face-pandas-basics)
 ---
 
 ## :pencil: Tasks Overview
@@ -77,3 +77,8 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 
 ### [:books: Numpy Broadcasting](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-12-Numpy-Broadcasting)
 > Explored the concept of broadcasting in NumPy with 10 different examples. The examples showcased various broadcasting scenarios, such as adding a scalar to an array, multiplying arrays with different shapes, broadcasting along multiple dimensions, using a boolean array for broadcasting and even broadcasting with arrays of different data types.
+
+---
+
+### [:panda_face: Pandas Basics](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-13-Pandas-Basics)
+> Learned about pandas, a Python library for data manipulation. It has two primary data structures, series and dataframes. Series are one-dimensional arrays with labeled data, while dataframes are two-dimensional tables with labeled rows and columns. Pandas offers efficient data processing and analysis capabilities.
