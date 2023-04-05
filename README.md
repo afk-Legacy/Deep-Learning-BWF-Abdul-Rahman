@@ -15,7 +15,7 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 - [Task 10 - Numpy Basics](#chart_with_upwards_trend-numpy-basics)
 - [Task 11 - Numpy Linear Algebra](#bar_chart-numpy-linear-algebra)
 - [Task 12 - Numpy Broadcasting](#books-numpy-broadcasting)
-- [Task 13 - Pandas Basics](#panda_face-pandas-basics)
+- [Task 13 - Pandas Loading Data](#floppy_disk-pandas-loading-data)
 ---
 
 ## :pencil: Tasks Overview
@@ -82,3 +82,8 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 
 ### [:panda_face: Pandas Basics](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-13-Pandas-Basics)
 > Learned about pandas, a Python library for data manipulation. It has two primary data structures, series and dataframes. Series are one-dimensional arrays with labeled data, while dataframes are two-dimensional tables with labeled rows and columns. Pandas offers efficient data processing and analysis capabilities.
+
+---
+
+### [:floppy_disk: Pandas Loading Data](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-14-Pandas-Reading-Files)
+> Explored data loading with Pandas, which offers functions to load data from CSV, JSON, Excel, and SQL databases. These functions include read_csv(), read_json(), read_excel(), and read_sql(). Pandas simplifies data preprocessing, making it easy to analyze and explore data from different sources.
