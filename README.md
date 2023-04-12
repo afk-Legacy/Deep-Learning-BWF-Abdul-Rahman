@@ -19,7 +19,7 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 - [Task 14 - Pandas Loading Data](#floppy_disk-pandas-loading-data)
 - [Task 15 - Pandas Handling Data](#chart_with_upwards_trend-pandas-handling-data)
 - [Task 16 - Pandas Combining Data](#jigsaw-pandas-combining-data)
-- [Task 17 - Mini Project - States Data](#hammer-pandas-mini-project--states-data)
+- [Task 17 - Mini Project - States Data](#hammer-mini-project---states-data)
 ---
 
 ## :pencil: Tasks Overview
