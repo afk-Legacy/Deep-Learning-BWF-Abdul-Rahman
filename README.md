@@ -19,6 +19,7 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 - [Task 14 - Pandas Loading Data](#floppy_disk-pandas-loading-data)
 - [Task 15 - Pandas Handling Data](#chart_with_upwards_trend-pandas-handling-data)
 - [Task 16 - Pandas Combining Data](#jigsaw-pandas-combining-data)
+- [Task 17 - Mini Project - States Data](#hammer-pandas-mini-project--states-data)
 ---
 
 ## :pencil: Tasks Overview
@@ -99,5 +100,11 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 
 ---
 
-### [:jigsaw: Pandas Combining Data](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-15-Handling-Data)
+### [:jigsaw: Pandas Combining Data](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-16-Reshaping-Data)
 > Learned about concatenating dataframes vertically, joining dataframes horizontally, pivoting a dataframe to convert rows into columns, melting a dataframe to combine multiple columns into one, and stack and unstack to reorganize multi-level index dataframes for the purpose of reshaping data.
+
+---
+
+### [:hammer: Mini Project - States Data]((https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-17-Mini-Project)
+> Cleaned and analyzed census data in multiple CSV files to create scatterplots and histograms. Used pandas to load and manipulate data, converted columns to appropriate data types, split and converted columns with gender, and filled null values. Checked for duplicates and created histograms for race categories.
+
