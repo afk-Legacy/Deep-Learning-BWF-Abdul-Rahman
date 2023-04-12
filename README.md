@@ -18,6 +18,7 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 - [Task 13 - Pandas Basics](#panda_face-pandas-basics)
 - [Task 14 - Pandas Loading Data](#floppy_disk-pandas-loading-data)
 - [Task 15 - Pandas Handling Data](#chart_with_upwards_trend-pandas-handling-data)
+- [Task 16 - Pandas Combining Data](#jigsaw-pandas-combining-data)
 ---
 
 ## :pencil: Tasks Overview
@@ -93,5 +94,10 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 
 ---
 
-### [:floppy_disk: Pandas Handling Data]()
-Learned about Handling Missing Data, Filling and Replacing Values, Removing Duplicates, Detecting and Removing Outliers
+### [:chart_with_upwards_trend: Pandas Handling Data](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-15-Handling-Data)
+> Learned about Handling Missing Data, Filling and Replacing Values, Removing Duplicates, Detecting and Removing Outliers
+
+---
+
+### [:jigsaw: Pandas Combining Data](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-15-Handling-Data)
+> Learned about concatenating dataframes vertically, joining dataframes horizontally, pivoting a dataframe to convert rows into columns, melting a dataframe to combine multiple columns into one, and stack and unstack to reorganize multi-level index dataframes for the purpose of reshaping data.
