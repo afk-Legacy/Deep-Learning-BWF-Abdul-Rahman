@@ -105,6 +105,6 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 
 ---
 
-### [:hammer: Mini Project - States Data]((https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-17-Mini-Project)
+### [:hammer: Mini Project - States Data](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-17-Mini-Project)
 > Cleaned and analyzed census data in multiple CSV files to create scatterplots and histograms. Used pandas to load and manipulate data, converted columns to appropriate data types, split and converted columns with gender, and filled null values. Checked for duplicates and created histograms for race categories.
 
