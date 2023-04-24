@@ -20,6 +20,7 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 - [Task 15 - Pandas Handling Data](#chart_with_upwards_trend-pandas-handling-data)
 - [Task 16 - Pandas Combining Data](#jigsaw-pandas-combining-data)
 - [Task 17 - Mini Project - States Data](#hammer-mini-project---states-data)
+- [Task 18 - Mini Project - States Data](#leaves-naive-bayes-and-decision-tree)
 ---
 
 ## :pencil: Tasks Overview
@@ -107,4 +108,9 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 
 ### [:hammer: Mini Project - States Data](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-17-Mini-Project)
 > Cleaned and analyzed census data in multiple CSV files to create scatterplots and histograms. Used pandas to load and manipulate data, converted columns to appropriate data types, split and converted columns with gender, and filled null values. Checked for duplicates and created histograms for race categories.
+
+---
+
+### [:leaves: Naive Bayes and Decision Tree](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-18-Naive-Bayes-Decision-Tree)
+> Implemented Naive Bayes and Decision Tree classifiers on a given dataset. Used scikit-learn to split data into training and testing sets, and trained both classifiers on the training set. Evaluated the performance of both models using accuracy and confusion matrix on the testing set.
 
