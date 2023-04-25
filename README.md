@@ -21,7 +21,7 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 - [Task 16 - Pandas Combining Data](#jigsaw-pandas-combining-data)
 - [Task 17 - Mini Project - States Data](#hammer-mini-project---states-data)
 - [Task 18 - Naive Bayes and Decision Tree](#leaves-naive-bayes-and-decision-tree)
-- [Task 19 - Neural Networks, Tensors and Tensor Operations](#notebook_with_decorative_cover-neural-networks,-tensors-and-tensor-operations)
+- [Task 19 - Neural Networks, Tensors and Tensor Operations](#notebook_with_decorative_cover-neural-networks-tensors-and-tensor-operations)
 ---
 
 ## :pencil: Tasks Overview
