@@ -22,7 +22,7 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 - [Task 17 - Mini Project - States Data](#hammer-mini-project---states-data)
 - [Task 18 - Naive Bayes and Decision Tree](#leaves-naive-bayes-and-decision-tree)
 - [Task 19 - Neural Networks, Tensors and Tensor Operations](#notebook_with_decorative_cover-neural-networks-tensors-and-tensor-operations)
-- [Task 20 - :bulb: Keras, Classification and Regression](#bulb-keras-classification-and-regression)
+- [Task 20 - Keras, Classification and Regression](#bulb-keras-classification-and-regression)
 ---
 
 ## :pencil: Tasks Overview
