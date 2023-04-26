@@ -20,7 +20,8 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 - [Task 15 - Pandas Handling Data](#chart_with_upwards_trend-pandas-handling-data)
 - [Task 16 - Pandas Combining Data](#jigsaw-pandas-combining-data)
 - [Task 17 - Mini Project - States Data](#hammer-mini-project---states-data)
-- [Task 18 - Mini Project - States Data](#leaves-naive-bayes-and-decision-tree)
+- [Task 18 - Naive Bayes and Decision Tree](#leaves-naive-bayes-and-decision-tree)
+- [Task 19 - Neural Networks, Tensors and Tensor Operations](#notebook_with_decorative_cover-neural-networks-tensors-and-tensor-operations)
 ---
 
 ## :pencil: Tasks Overview
@@ -114,3 +115,8 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 ### [:leaves: Naive Bayes and Decision Tree](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-18-Naive-Bayes-Decision-Tree)
 > Implemented Naive Bayes and Decision Tree classifiers on a given dataset. Used scikit-learn to split data into training and testing sets, and trained both classifiers on the training set. Evaluated the performance of both models using accuracy and confusion matrix on the testing set.
 
+---
+
+### [:notebook_with_decorative_cover: Neural Networks, Tensors and Tensor Operations](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-19-Intro-to-DL)
+
+> Studied the fundamentals of tensors using NumPy library and examined key properties such as shape, ndim, and dtype. Additionally, gained a high-level understanding of neural network theory, including components such as layers, activation functions, loss functions, and optimization algorithms.
