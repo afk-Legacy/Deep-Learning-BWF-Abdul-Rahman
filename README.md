@@ -23,6 +23,7 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 - [Task 18 - Naive Bayes and Decision Tree](#leaves-naive-bayes-and-decision-tree)
 - [Task 19 - Neural Networks, Tensors and Tensor Operations](#notebook_with_decorative_cover-neural-networks-tensors-and-tensor-operations)
 - [Task 20 - Keras, Classification and Regression](#bulb-keras-classification-and-regression)
+- [Task 21 - Sync Meeting](#calling-Sync-Meeting)
 ---
 
 ## :pencil: Tasks Overview
@@ -127,3 +128,11 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 ### [:bulb: Keras, Classification and Regression](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-20-Intro-to-Keras)
 
 > Used Keras API for building and training deep learning models, and implemented mini projects for binary classification, multiclass classification, and regression. Built and trained neural network models with appropriate architectures, activation functions, and optimizers for each task, and evaluated their performance using appropriate metrics. Optimized the models' hyperparameters to improve their performance.
+
+---
+
+### [:calling: Sync Meeting]
+
+> An online meeting was held focusing on the fellowship and a QnA session throughtout to answer queries.
+
+---
