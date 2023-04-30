@@ -29,47 +29,47 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 
 ## :pencil: Tasks Overview
 
-### [:octopus: Git Basics](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-1-Git-Basics)
+### [:octopus: Git Basics](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-01-Git-Basics)
 > Learned the basics of Git version control system, including initializing a repository, committing changes, and pushing to a remote repository.
 
 ---
 
-### [:octocat: Git Remote Repositories](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-2-Git-Remote-Repos)
+### [:octocat: Git Remote Repositories](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-02-Git-Remote-Repos)
 > Explored the use of remote repositories in Git, including cloning, fetching, and pulling from remote repositories, as well as pushing to and creating new branches on remote repositories.
 
 ---
 
-### [:snake: Python Basics](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-3-Python-Basics-Syntax-Variables-Datatypes-Code-Execution)
+### [:snake: Python Basics](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-03-Python-Basics-Syntax-Variables-Datatypes-Code-Execution)
 > Learned the basics of Python, including syntax, variables, data types, code execution, and common built-in functions.
 
 ---
 
-### [:memo: Python Lists and Tuples](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-4-List-Tuples-Code-Styling)
+### [:memo: Python Lists and Tuples](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-04-List-Tuples-Code-Styling)
 > Explored Python's list and tuple data structures, as well as common list methods and best practices for code styling.
 
 ---
 
-### [:watch: Python Timing, Inputs, and Sets](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-5-Input-Conditionals-Enumerate-Set)
+### [:watch: Python Timing, Inputs, and Sets](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-05-Input-Conditionals-Enumerate-Set)
 > Learned about Python's `enumerate()` function, timing code execution, user inputs, conditionals, and introduced the set data structure and its methods.
 
 ---
 
-### [:book: Python Dictionaries](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-6-Dictionaries)
+### [:book: Python Dictionaries](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-06-Dictionaries)
 > Explored Python's dictionary data structure, including keys, values, and common dictionary methods for adding, removing, and changing items.
 
 ---
 
-### [:speech_balloon: Python Functions](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-7-Functions-Docstring-Calling-Definiton-DRY_Principle)
+### [:speech_balloon: Python Functions](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-07-Functions-Docstring-Calling-Definiton-DRY_Principle)
 > Learned about Python functions, including docstrings, function definition, calling functions, passing arguments to functions, returning values, and working with arbitrary numbers of arguments.
 
 ---
 
-### [:classical_building: Python Classes and Inheritance](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-8-Classes-Inheritance)
+### [:classical_building: Python Classes and Inheritance](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-08-Classes-Inheritance)
 > Explored Python's class-based object-oriented programming paradigm, including defining classes, creating instances of classes, and working with inheritance.
 
 ---
 
-### [:file_folder: Python File and Exception Handling](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-9-Files-Handling-Exception-Handling)
+### [:file_folder: Python File and Exception Handling](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-09-Files-Handling-Exception-Handling)
 > Learned about reading and writing files in Python, as well as handling exceptions with try, except, and finally statements.
 
 ---
