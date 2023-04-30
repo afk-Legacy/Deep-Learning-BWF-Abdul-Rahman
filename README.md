@@ -24,7 +24,8 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 - [Task 19 - Neural Networks, Tensors and Tensor Operations](#notebook_with_decorative_cover-neural-networks-tensors-and-tensor-operations)
 - [Task 20 - Keras, Classification and Regression](#bulb-keras-classification-and-regression)
 - [Task 21 - Sync Meeting](#calling-sync-meeting)
-- [Task 21 - Machine Learning Types](#question-machine-learning-types)
+- [Task 22 - Machine Learning Types](#question-machine-learning-types)
+- [Task 23 - Train, Test and Validation Sets](#boom-train-test-and-validation-sets)
 ---
 
 ## :pencil: Tasks Overview
@@ -141,5 +142,11 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 ### [:question: Machine Learning Types](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-22-ML-Learning-Types)
 
 > Studied a comprehensive overview of the four main branches of machine learning, including supervised, unsupervised, self-supervised, and reinforcement learning. It covers various applications of supervised learning, such as optical character recognition, speech recognition, image classification, and language translation. 
+
+---
+
+### [:boom: Train, Test and Validation Sets](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-23-Validation-Set-KFold)
+
+> Studied about train, test and validation splits. Also learned about Hold-out validation and KFolds.
 
 ---
