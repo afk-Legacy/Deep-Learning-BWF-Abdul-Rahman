@@ -26,6 +26,7 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 - [Task 21 - Sync Meeting](#calling-sync-meeting)
 - [Task 22 - Machine Learning Types](#question-machine-learning-types)
 - [Task 23 - Train, Test and Validation Sets](#boom-train-test-and-validation-sets)
+- [Task 24 - Data Preprocessing and Feature Extraction](#hole-data-preprocessing-and-feature-extraction)
 ---
 
 ## :pencil: Tasks Overview
@@ -148,5 +149,11 @@ This repo contains tasks and other relevant resources relating to Deep Learning 
 ### [:boom: Train, Test and Validation Sets](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-23-Validation-Set-KFold)
 
 > Studied about train, test and validation splits. Also learned about Hold-out validation and KFolds.
+
+---
+
+### [:hole: Data Preprocessing and Feature Extraction](https://github.com/afk-Legacy/Deep-Learning-BWF-Abdul-Rahman/tree/main/Task-24-Data-Pre-Processing-Feature-Engineering)
+
+> Trained and implemented a neural network on a pre-processed dataset using various data pre-processing techniques (vectorization, normalization, imputation) and feature extraction.
 
 ---
